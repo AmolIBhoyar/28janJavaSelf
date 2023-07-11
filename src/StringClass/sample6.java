@@ -14,7 +14,7 @@ public class sample6
 			System.out.println(s3.endsWith("D"));    //true
 			System.out.println(s3.substring(1, 3));  //BC
 			System.out.println(s4.lastIndexOf("d"));  //12
-			System.out.println(s3.charAt(2));         //
+			System.out.println(s3.charAt(2));         //C
 			System.out.println(s1.trim());
 		
 	}

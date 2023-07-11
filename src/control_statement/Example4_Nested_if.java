@@ -1,6 +1,6 @@
 package control_statement;
 
-public class Sample4_Nested_if
+public class Example4_Nested_if
 {
 	public static void main(String[] args) 
 	{

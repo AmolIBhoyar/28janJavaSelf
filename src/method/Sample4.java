@@ -5,8 +5,7 @@ public class Sample4    //non static regula call from same class
 	public static void main(String[] args)
 	{
 	System.out.println("hi");
-	Sample4 s4=new
-			Sample4();
+	Sample4 s4=new Sample4();
 	s4.m5();
 	s4.m6();
 	s4.m6();

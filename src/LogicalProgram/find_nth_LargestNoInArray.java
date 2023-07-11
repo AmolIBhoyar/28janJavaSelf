@@ -5,7 +5,7 @@ public class find_nth_LargestNoInArray
 	public static void main(String[] args)
 	{
 		int ar[]={10,30,20,80,90,60,50};
-		int n=2;
+		int n=1;
 		for(int i=0;i<=ar.length-1;i++)
 		{
 			for(int j=i+1;j<=ar.length-1;j++)

@@ -3,7 +3,7 @@ package AccessSpcifier;
 public class Sample1 
 {
 	private int a;
-	private Sample1()
+	Sample1()
 	{
 		a=10;
 		
