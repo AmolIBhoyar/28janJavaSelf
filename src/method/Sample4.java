@@ -1,6 +1,6 @@
 package method;
 
-public class Sample4    //non static regula call from same class
+public class Sample4    //non static regular call from same class
 {
 	public static void main(String[] args)
 	{
